@@ -21,6 +21,9 @@
     "e2e-parse": "jasmine JASMINE_CONFIG_PATH=test/e2e-parse/jasmine.json"
   },
   "author": "Dave T. Johnson <dave@dtjohnson.net>",
+  "browser": {
+    "fs": false
+  },
   "contributors": [
     "Eddie Corrigall <eddiecorrigall@gmail.com>",
     "Alan Doyle <alandoyle95@gmail.com>"
